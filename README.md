@@ -61,6 +61,15 @@ This project implements a **Particle Swarm Optimization (PSO)** algorithm to sol
 
 ---
 
+👨‍💻 Author
+Name: Istiaqe Ahamed
+
+Email: istiaqeahamed@example.com
+
+LinkedIn: linkedin.com/in/istiaqeahamed
+
+GitHub: github.com/istiaqeahamed
+
 ## 🖥️ How to Run
 
 1. Clone the repo:
