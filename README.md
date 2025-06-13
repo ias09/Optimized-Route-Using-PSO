@@ -71,6 +71,12 @@ LinkedIn: [linkedin.com/in/istiaqeahamed](https://www.linkedin.com/in/istiaqe-ah
 
 GitHub: [github.com/ias09](https://github.com/ias09)
 
+## 📚 Reference
+Yuhua Li (2024). Optimization Strategy of Mixed-Integer Linear Planning in Logistics Distribution.
+Published in Applied Mathematics and Nonlinear Sciences.
+
+DOI: 10.2478/amns-2024-1904
+
 ## 🖥️ How to Run
 
 1. Clone the repo:
