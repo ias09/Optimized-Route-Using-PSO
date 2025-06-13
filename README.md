@@ -68,6 +68,3 @@ This project implements a **Particle Swarm Optimization (PSO)** algorithm to sol
 ```bash
 git clone https://github.com/ias09/Optimized-Route-Using-PSO.git
 cd Optimized-Route-Using-PSO
-
-Author
-Istiaqe Ahamed
